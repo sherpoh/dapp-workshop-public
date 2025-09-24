@@ -1,5 +1,7 @@
 # dapp-workshop-public
-This project is an example about how to deploy an smart contract using hardhat and how to create a dApp using React
+This project is an example about how to
+- deploy an smart contract using hardhat (smartContract)
+- and how to create a dApp using React (frontend)
 
 # Hardhat Deployment's Steps
 ## 1. Create a node project 
